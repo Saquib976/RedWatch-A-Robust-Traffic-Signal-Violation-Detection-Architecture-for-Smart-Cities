@@ -1,6 +1,6 @@
-# RedWatch-A-Robust-Traffic-Signal-Violation-Detection-Architecture-for-Smart-Cities
-RedWatch is a deep learning-based framework designed to automatically detect traffic signal violations using real-time video feeds. Leveraging advanced object detection (e.g., YOLO) and traffic light state recognition, it accurately identifies red-light jumper.  
 # 🚦 RedWatch: A Robust Traffic Signal Violation Detection Architecture for Smart Cities
+RedWatch is a deep learning-based framework designed to automatically detect traffic signal violations using real-time video feeds. Leveraging advanced object detection (e.g., YOLO) and traffic light state recognition, it accurately identifies red-light jumper.  
+
 
 **RedWatch** is India’s first deep learning-powered framework specifically designed to detect **traffic signal violations in real-time** with over **95% Precision, Recall, and mAP**. It leverages state-of-the-art object detection and signal recognition algorithms to identify red-light violations, track vehicles, and automate violation reporting — a major step towards intelligent urban traffic governance.
 
@@ -30,9 +30,9 @@ RedWatch is a deep learning-based framework designed to automatically detect tra
 
 | Metric     | Value    |
 |------------|----------|
-| Precision  | 96.7%    |
-| Recall     | 95.2%    |
-| mAP@0.5    | 95.9%    |
+| Precision  | 99%    |
+| Recall     | 98%    |
+| mAP@0.5    | 98%    |
 | FPS (Real-time) | 30+ |
 
 ---
