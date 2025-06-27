@@ -19,11 +19,22 @@ RedWatch is a deep learning-based framework designed to automatically detect tra
 
 > Below is a real-time snapshot showing a red-light violation detected by RedWatch:
 
-![Red Light Violation Detection](assets/violation_frame.jpg)
+![Red Light Violation Detection](https://github.com/user-attachments/assets/8ed470ca-a226-4d0b-8376-bde20bfef6a0)
 
+## 📸 Number Plate Detection Output
+
+> Below is the number plate detection result using EasyOCR:
+
+(![download (1)](https://github.com/user-attachments/assets/64784ce9-1594-497c-bf6b-14d005329922)
+
+### 🛰️ CCTV Footage Frame
+(![download (3)](https://github.com/user-attachments/assets/f432cf47-d90b-4bd9-81c5-a91ecaf6187d)
+
+*Snapshot from live CCTV feed processed for violation detection.
 > Or watch the full detection in action:
 
-![Live Detection Demo](assets/demo_output.gif)
+![Live Detection Demo](https://github.com/user-attachments/assets/7218944a-cad7-4df3-9ca5-11e3e1c1a7b0
+)
 
 
 
