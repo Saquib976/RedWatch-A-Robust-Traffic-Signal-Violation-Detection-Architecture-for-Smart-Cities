@@ -96,3 +96,16 @@ pip install -r requirements.txt
 
 # Run detection
 python detect_violation.py --source traffic_video.mp4
+
+---
+
+## 🤝 Collaboration & Contact
+
+Interested in the *complete source code, full **project report, or a potential **research collaboration*?
+
+Feel free to reach out:
+
+📧 Email: [saquibsabir786@gmail.com](mailto:saquibsabir786@gmail.com)  
+🔗 LinkedIn: [linkedin.com/in/saquib-s-736063](https://www.linkedin.com/in/saquib-s-736063)
+
+> 💡 Let's connect and build smarter, safer urban mobility solutions together!
