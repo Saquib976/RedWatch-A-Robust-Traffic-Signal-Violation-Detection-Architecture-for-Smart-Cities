@@ -86,9 +86,11 @@ Indian traffic presents unique challenges – multiple vehicle types, erratic la
 
 ## 🚀 How to Use
 
-```bash
+
 # Clone the repo
 git clone https://github.com/your-username/RedWatch-TrafficViolationDetection.git
+
+
 cd RedWatch-TrafficViolationDetection
 
 # Install dependencies
@@ -98,14 +100,19 @@ pip install -r requirements.txt
 python detect_violation.py --source traffic_video.mp4
 
 ---
+    
+🤝 Collaboration & Contact
 
-## 🤝 Collaboration & Contact
 
-Interested in the *complete source code, full **project report, or a potential **research collaboration*?
+Interested in the complete source code, full project report, or a potential research collaboration?
 
-Feel free to reach out:
+Feel free to connect:
 
-📧 Email: [saquibsabir786@gmail.com](mailto:saquibsabir786@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/saquib-s-736063](https://www.linkedin.com/in/saquib-s-736063)
+📧 Email: saquibsabir786@gmail.com
 
-> 💡 Let's connect and build smarter, safer urban mobility solutions together!
+🔗 LinkedIn:* https://www.linkedin.com/in/saquib-s-736063217
+
+> 💡 *Let's connect and build smarter, safer urban mobility solutions together!*
+
+
+
