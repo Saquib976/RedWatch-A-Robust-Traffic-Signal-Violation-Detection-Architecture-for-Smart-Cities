@@ -15,6 +15,26 @@ RedWatch is a deep learning-based framework designed to automatically detect tra
 - 📡 **Smart City Ready**: Supports automatic violation logging, vehicle tracking (via DeepSORT/ByteTrack), and integration with e-challan systems or traffic control centers.
 
 ---
+## 📸 Real-Time Violation Detection Example
+
+> Below is a real-time snapshot showing a red-light violation detected by RedWatch:
+
+![Red Light Violation Detection](assets/violation_frame.jpg)
+
+> Or watch the full detection in action:
+
+![Live Detection Demo](assets/demo_output.gif)
+
+
+
+
+
+
+
+
+
+
+
 
 ## 📂 Core Features
 
